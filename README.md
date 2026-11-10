@@ -33,6 +33,19 @@
 | [linhnam.store](https://linhnam.store) | Lĩnh Nam Trading — thương mại xuất nhập khẩu, phân phối đa kênh |
 | [linhnamcosmos.capital](https://linhnamcosmos.capital) | Lĩnh Nam Cosmos — kiến tạo và thương mại hoá IP văn hoá Việt Nam |
 
+## Đồng hành và tài trợ
+
+Dự án đang kêu gọi đồng hành là **CD Restop** — mạng lưới điểm dừng chân an sinh. Nền tảng số mô tả ở trang này (ERP, API, website 5 ngôn ngữ, bản đồ mạng lưới) là phần hạ tầng công nghệ phía sau dự án đó.
+
+| Bạn là | Xem tại | Liên hệ |
+|---|---|---|
+| Nhà tài trợ (chủ đất, nhãn hàng, tổ chức xã hội, tổ chức tài chính) | [cdrestop.com/vi/sponsors](https://cdrestop.com/vi/sponsors/) | [partners@cdrestop.com](mailto:partners@cdrestop.com) |
+| Nhà đầu tư | [cdrestop.com/vi/investors](https://cdrestop.com/vi/investors/) | [invest@cdrestop.com](mailto:invest@cdrestop.com) |
+| Đối tác chiến lược | [cdrestop.com/vi/partners](https://cdrestop.com/vi/partners/) | [partner@cdrestop.com](mailto:partner@cdrestop.com) |
+| Hợp tác với các đơn vị khác của tập đoàn | [linhnam.vn](https://linhnam.vn) | [we@linhnam.vn](mailto:we@linhnam.vn) |
+
+Mức đồng hành, quyền lợi và hồ sơ chi tiết được trao đổi trực tiếp, không công bố trên GitHub. Chúng tôi không nhận tài trợ qua GitHub Sponsors.
+
 ## Công nghệ
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Express.js` · `PostgreSQL` · `pgvector` · `Redis` · `Docker` · `nginx` · `Eleventy` · `GitHub Actions`
@@ -60,6 +73,8 @@ The Lĩnh Nam Group technology team builds and runs the digital platform behind 
 
 **How we work:** real data only (partners are named only once signed); five languages for public content; security first, with authorisation enforced in the API, no secrets in code and regular dependency scanning; and spec before code, with a backup, a post-deploy check and a rollback path for every deployment.
 
+**Sponsorship and partnership.** The project currently seeking sponsors is **CD Restop**, a network of social-welfare rest stops; the platform described here is the technology behind it. Sponsors: [cdrestop.com/en/sponsors](https://cdrestop.com/en/sponsors/) · [partners@cdrestop.com](mailto:partners@cdrestop.com). Investors: [cdrestop.com/en/investors](https://cdrestop.com/en/investors/) · [invest@cdrestop.com](mailto:invest@cdrestop.com). Strategic partners: [cdrestop.com/en/partners](https://cdrestop.com/en/partners/). Terms and documents are shared directly, not on GitHub. We do not take funding through GitHub Sponsors.
+
 Production source code is kept private. Contact: [we@linhnam.vn](mailto:we@linhnam.vn) · [linhnam.vn](https://linhnam.vn/en/)
 
 <a id="中文"></a>
@@ -71,6 +86,8 @@ Production source code is kept private. Contact: [we@linhnam.vn](mailto:we@linhn
 - **多实体 ERP**：统一管理组织、人员、内容、客户、财务与运营，各网站从中读取数据。
 - **多语言网站**：所有公开页面提供越南语、英语、中文、俄语和韩语。
 - **API 与 MCP 服务器**：为网站、应用及内部 AI 助手提供数据，按角色与单位进行权限控制。
+
+赞助与合作：[cdrestop.com/zh/sponsors](https://cdrestop.com/zh/sponsors/) · 投资者：[cdrestop.com/zh/investors](https://cdrestop.com/zh/investors/)
 
 联系方式：[we@linhnam.vn](mailto:we@linhnam.vn) · [linhnam.vn](https://linhnam.vn/zh/)
 </details>
@@ -85,6 +102,8 @@ Lĩnh Nam Group — зелёная, умная и устойчивая экон�
 - **Многоязычные сайты**: каждая публичная страница доступна на вьетнамском, английском, китайском, русском и корейском.
 - **API и MCP-сервер**: обслуживают сайты, приложения и внутренних ИИ-ассистентов с разграничением доступа по ролям и компаниям.
 
+Спонсорам и партнёрам: [cdrestop.com/ru/sponsors](https://cdrestop.com/ru/sponsors/) · Инвесторам: [cdrestop.com/ru/investors](https://cdrestop.com/ru/investors/)
+
 Контакты: [we@linhnam.vn](mailto:we@linhnam.vn) · [linhnam.vn](https://linhnam.vn/ru/)
 </details>
 
@@ -97,6 +116,8 @@ Lĩnh Nam Group은 베트남 고유의 문화에 뿌리를 둔 친환경·스마
 - **다법인 ERP**: 조직·인력·콘텐츠·고객·재무·운영 데이터를 한곳에서 관리하며, 웹사이트들이 이 데이터를 사용합니다.
 - **다국어 웹사이트**: 모든 공개 페이지를 베트남어·영어·중국어·러시아어·한국어로 제공합니다.
 - **API 및 MCP 서버**: 웹사이트, 앱, 사내 AI 어시스턴트에 데이터를 제공하며 역할과 법인 단위로 접근을 통제합니다.
+
+후원 및 협력: [cdrestop.com/ko/sponsors](https://cdrestop.com/ko/sponsors/) · 투자자: [cdrestop.com/ko/investors](https://cdrestop.com/ko/investors/)
 
 연락처: [we@linhnam.vn](mailto:we@linhnam.vn) · [linhnam.vn](https://linhnam.vn/ko/)
 </details>
