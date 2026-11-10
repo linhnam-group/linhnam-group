@@ -5,7 +5,7 @@
 **Hệ sinh thái kinh tế xanh, thông minh, bền vững — gắn kết văn hoá bản sắc Việt**
 *A green, smart and sustainable economic ecosystem rooted in Vietnamese culture*
 
-[linhnam.vn](https://linhnam.vn) · [we@linhnam.vn](mailto:we@linhnam.vn)
+[linhnam.vn](https://linhnam.vn) · [we@linhnam.vn](mailto:we@linhnam.vn) · [Status](https://linhnam-group.github.io/status/)
 
 <sub>Tiếng Việt · [English](#english) · [中文](#中文) · [Русский](#русский) · [한국어](#한국어)</sub>
 
@@ -32,6 +32,8 @@
 | [timeszones.space](https://timeszones.space) | Times Zones — coworking và hạ tầng đổi mới sáng tạo tại TP.HCM |
 | [linhnam.store](https://linhnam.store) | Lĩnh Nam Trading — thương mại xuất nhập khẩu, phân phối đa kênh |
 | [linhnamcosmos.capital](https://linhnamcosmos.capital) | Lĩnh Nam Cosmos — kiến tạo và thương mại hoá IP văn hoá Việt Nam |
+
+Trạng thái hoạt động của các trang trên được đo tự động mỗi 5 phút và công khai tại [linhnam-group.github.io/status](https://linhnam-group.github.io/status/).
 
 ## Đồng hành và tài trợ
 
@@ -72,6 +74,8 @@ The Lĩnh Nam Group technology team builds and runs the digital platform behind 
 - **API and MCP server**: serves websites, apps and internal AI assistants, with role- and entity-based access control.
 
 **How we work:** real data only (partners are named only once signed); five languages for public content; security first, with authorisation enforced in the API, no secrets in code and regular dependency scanning; and spec before code, with a backup, a post-deploy check and a rollback path for every deployment.
+
+**Live status.** Uptime of these sites is measured every 5 minutes and published at [linhnam-group.github.io/status](https://linhnam-group.github.io/status/).
 
 **Sponsorship and partnership.** The project currently seeking sponsors is **CD Restop**, a network of social-welfare rest stops; the platform described here is the technology behind it. Sponsors: [cdrestop.com/en/sponsors](https://cdrestop.com/en/sponsors/) · [partners@cdrestop.com](mailto:partners@cdrestop.com). Investors: [cdrestop.com/en/investors](https://cdrestop.com/en/investors/) · [invest@cdrestop.com](mailto:invest@cdrestop.com). Strategic partners: [cdrestop.com/en/partners](https://cdrestop.com/en/partners/). Terms and documents are shared directly, not on GitHub. We do not take funding through GitHub Sponsors.
 
