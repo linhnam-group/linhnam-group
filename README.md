@@ -5,7 +5,7 @@
 **Hệ sinh thái kinh tế xanh, thông minh, bền vững — gắn kết văn hoá bản sắc Việt**
 *A green, smart and sustainable economic ecosystem rooted in Vietnamese culture*
 
-[linhnam.vn](https://linhnam.vn) · [we@linhnam.vn](mailto:we@linhnam.vn) · [Status](https://linhnam-group.github.io/status/)
+[linhnam.vn](https://linhnam.vn) · [we@linhnam.vn](mailto:we@linhnam.vn) · [Status](https://linhnam-group.github.io/status/) · [Nhật ký phát hành / Changelog](CHANGELOG.md)
 
 <sub>Tiếng Việt · [English](#english) · [中文](#中文) · [Русский](#русский) · [한국어](#한국어)</sub>
 
@@ -59,7 +59,7 @@ Mức đồng hành, quyền lợi và hồ sơ chi tiết được trao đổi 
 - **Bảo mật từ đầu.** Phân quyền đặt ở API, không chỉ ở giao diện. Không có bí mật nào nằm trong mã nguồn. Phụ thuộc được quét lỗ hổng thường xuyên.
 - **Đặc tả trước, mã sau.** Việc lớn đều đi qua spec → plan → tasks. Mỗi lần triển khai đều có sao lưu, kiểm sau triển khai và đường khôi phục.
 
-Mã nguồn các hệ thống đang chạy được giữ ở chế độ riêng tư.
+Mã nguồn các hệ thống đang chạy được giữ ở chế độ riêng tư. Những gì đã đưa vào hoạt động được ghi theo ngày ở [Nhật ký phát hành](CHANGELOG.md).
 
 ---
 
@@ -74,6 +74,8 @@ The Lĩnh Nam Group technology team builds and runs the digital platform behind 
 - **API and MCP server**: serves websites, apps and internal AI assistants, with role- and entity-based access control.
 
 **How we work:** real data only (partners are named only once signed); five languages for public content; security first, with authorisation enforced in the API, no secrets in code and regular dependency scanning; and spec before code, with a backup, a post-deploy check and a rollback path for every deployment.
+
+**Changelog.** What we have shipped, by date: [CHANGELOG.md](CHANGELOG.md#english).
 
 **Live status.** Uptime of these sites is measured every 5 minutes and published at [linhnam-group.github.io/status](https://linhnam-group.github.io/status/).
 
@@ -93,6 +95,8 @@ Production source code is kept private. Contact: [we@linhnam.vn](mailto:we@linhn
 
 赞助与合作：[cdrestop.com/zh/sponsors](https://cdrestop.com/zh/sponsors/) · 投资者：[cdrestop.com/zh/investors](https://cdrestop.com/zh/investors/)
 
+更新日志：[CHANGELOG.md](CHANGELOG.md#中文)
+
 联系方式：[we@linhnam.vn](mailto:we@linhnam.vn) · [linhnam.vn](https://linhnam.vn/zh/)
 </details>
 
@@ -108,6 +112,8 @@ Lĩnh Nam Group — зелёная, умная и устойчивая экон�
 
 Спонсорам и партнёрам: [cdrestop.com/ru/sponsors](https://cdrestop.com/ru/sponsors/) · Инвесторам: [cdrestop.com/ru/investors](https://cdrestop.com/ru/investors/)
 
+Журнал изменений: [CHANGELOG.md](CHANGELOG.md#русский)
+
 Контакты: [we@linhnam.vn](mailto:we@linhnam.vn) · [linhnam.vn](https://linhnam.vn/ru/)
 </details>
 
@@ -122,6 +128,8 @@ Lĩnh Nam Group은 베트남 고유의 문화에 뿌리를 둔 친환경·스마
 - **API 및 MCP 서버**: 웹사이트, 앱, 사내 AI 어시스턴트에 데이터를 제공하며 역할과 법인 단위로 접근을 통제합니다.
 
 후원 및 협력: [cdrestop.com/ko/sponsors](https://cdrestop.com/ko/sponsors/) · 투자자: [cdrestop.com/ko/investors](https://cdrestop.com/ko/investors/)
+
+변경 기록: [CHANGELOG.md](CHANGELOG.md#한국어)
 
 연락처: [we@linhnam.vn](mailto:we@linhnam.vn) · [linhnam.vn](https://linhnam.vn/ko/)
 </details>
