@@ -9,6 +9,10 @@ Những thay đổi đã đưa vào hoạt động trên các hệ thống của
 - **ERP — Tin tức:** danh sách bài tải nhẹ hơn khoảng 17 lần (từ khoảng 2,2 MB xuống khoảng 130 KB); trang Quy trình nội dung cũng dùng danh sách gọn này.
 - **Website — Tin liên quan:** không còn gợi ý bài đã gỡ hoặc bài không có trang trên website đó.
 - **Mã nguồn:** kho mã API chạy kiểm thử tự động và quét bí mật trên GitHub mỗi lần cập nhật.
+- **ERP — Báo cáo:** chỉ hiện số liệu thật; ô chưa có nguồn ghi «Chưa có số liệu» thay vì số mẫu.
+- **ERP:** các danh sách tải đủ dữ liệu (tới 200 dòng mỗi lần) và báo rõ khi danh sách bị cắt; bỏ trang Webhooks mẫu, dẫn sang trang quản lý webhook thật.
+- **ERP — CD GO:** các trang CD GO đọc được dữ liệu; dữ liệu tài chính, cá nhân và hành vi lái xe chỉ quản trị viên xem được.
+- **ERP:** cập nhật thư viện giao diện (React 19.3, Tailwind CSS 4.3).
 
 ### 13/11/2026
 - **ERP — Tin tức:** một bài viết gắn được nhiều chuyên mục.
@@ -46,6 +50,10 @@ Changes put into production across Lĩnh Nam Group systems, newest first. Featur
 - **ERP — News:** the article list is about 17 times lighter to load (from about 2.2 MB to about 130 KB); the content workflow page uses the same lightweight list.
 - **Websites — related articles:** no longer suggest removed articles or articles without a page on that site.
 - **Source code:** the API repository runs its automated tests and a secret scan on GitHub on every update.
+- **ERP — Reports:** shows real figures only; cells without a data source read "No data yet" instead of sample numbers.
+- **ERP:** lists load complete data (up to 200 rows at a time) and say clearly when a list is cut short; the sample Webhooks page was removed and now leads to the real webhook manager.
+- **ERP — CD GO:** CD GO pages now read their data; financial, personal and driving-behaviour data is visible to administrators only.
+- **ERP:** UI libraries updated (React 19.3, Tailwind CSS 4.3).
 
 ### 13 Nov 2026
 - **ERP — News:** an article can belong to several categories.
@@ -83,6 +91,10 @@ Changes put into production across Lĩnh Nam Group systems, newest first. Featur
 - **ERP — 新闻：** 文章列表的加载量减少约17倍（由约2.2 MB降至约130 KB）；内容流程页面也改用同一精简列表。
 - **网站 — 相关文章：** 不再推荐已删除的文章或在该网站上没有页面的文章。
 - **源代码：** API 代码库每次更新都会在 GitHub 上运行自动化测试和密钥扫描。
+- **ERP — 报表：** 仅显示真实数据；尚无数据来源的单元格显示“暂无数据”，不再显示示例数字。
+- **ERP：** 列表加载完整数据（每次最多 200 行），列表被截断时会明确提示；移除示例 Webhooks 页面，改为跳转到真实的 Webhook 管理页。
+- **ERP — CD GO：** CD GO 各页面可读取数据；财务、个人和驾驶行为数据仅管理员可见。
+- **ERP：** 更新界面库（React 19.3、Tailwind CSS 4.3）。
 
 ### 2026年11月13日
 - **ERP — 新闻：** 一篇文章可归入多个栏目。
@@ -120,6 +132,10 @@ Changes put into production across Lĩnh Nam Group systems, newest first. Featur
 - **ERP — Новости:** список статей загружается примерно в 17 раз легче (около 2,2 МБ → около 130 КБ); страница процесса публикации использует тот же облегчённый список.
 - **Сайты — похожие статьи:** больше не предлагают удалённые статьи и статьи, у которых нет страницы на этом сайте.
 - **Исходный код:** при каждом обновлении репозитория API на GitHub запускаются автотесты и проверка на утечку секретов.
+- **ERP — Отчёты:** показываются только реальные данные; ячейки без источника данных помечены «Данных пока нет» вместо примерных чисел.
+- **ERP:** списки загружают данные полностью (до 200 строк за раз) и явно сообщают, если список обрезан; демонстрационная страница Webhooks убрана и ведёт на настоящий менеджер веб-хуков.
+- **ERP — CD GO:** страницы CD GO читают свои данные; финансовые, персональные данные и данные о стиле вождения видны только администраторам.
+- **ERP:** обновлены библиотеки интерфейса (React 19.3, Tailwind CSS 4.3).
 
 ### 13.11.2026
 - **ERP — Новости:** статью можно отнести к нескольким рубрикам.
@@ -157,6 +173,10 @@ Lĩnh Nam Group 시스템에 실제 적용된 변경 사항이며, 최신 항목
 - **ERP — 뉴스:** 기사 목록 로딩 용량이 약 17분의 1로 줄었습니다(약 2.2MB → 약 130KB). 콘텐츠 워크플로 페이지도 같은 경량 목록을 사용합니다.
 - **웹사이트 — 관련 기사:** 삭제된 기사나 해당 사이트에 페이지가 없는 기사를 더 이상 추천하지 않습니다.
 - **소스 코드:** API 저장소가 업데이트될 때마다 GitHub에서 자동 테스트와 비밀 정보 스캔을 실행합니다.
+- **ERP — 보고서:** 실제 데이터만 표시하며, 데이터 출처가 없는 칸은 예시 숫자 대신 '데이터 없음'으로 표시합니다.
+- **ERP:** 목록이 데이터를 빠짐없이(한 번에 최대 200행) 불러오고, 목록이 잘린 경우 명확히 알려 줍니다. 예시 Webhooks 페이지를 없애고 실제 웹훅 관리 페이지로 연결합니다.
+- **ERP — CD GO:** CD GO 페이지가 데이터를 읽을 수 있으며, 재무·개인·운전 행태 데이터는 관리자만 볼 수 있습니다.
+- **ERP:** UI 라이브러리를 업데이트했습니다(React 19.3, Tailwind CSS 4.3).
 
 ### 2026년 11월 13일
 - **ERP — 뉴스:** 기사 하나를 여러 카테고리에 지정할 수 있습니다.
